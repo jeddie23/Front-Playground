@@ -3,3 +3,4 @@ const {showData} = require('./modules/module3');
 
 showData(m2.newsData);
 showData(m2.commentsData)
+console.log(module);
